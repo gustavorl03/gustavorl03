@@ -23,11 +23,6 @@
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
 
-<!-- Links 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- Portfolio 
 ## Portfolio:
@@ -75,11 +70,12 @@
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=36BCF7FF"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00A1EEFF"  />
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem-vindos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A1EE&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem-vindos.)](https://git.io/typing-svg)
+
 
 # 👩🏻‍💻 I'm Gustavo Lacerda
 
@@ -227,14 +223,27 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde 
 <br/>
 <br/>
 
+<p align="left">
+  <img align="center" src="https://media.gifdb.com/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.gif" alt="Imagem">
+</p>
+
+![Aesthetic Blue Waves Animation](https://media.gifdb.com/aesthetic-anime-blue-sea-waves-mifyhkjxufwyss6a.gif)
+
+## Portfolio:
+- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Client Registry System](https://github.com/VariableBee/Cartorio)
+
 ### 📊 Estatísticas
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustavorl03&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorl03&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustavorl03&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorl03&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9"/>
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavorl03&theme=github_dark"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavorl03&theme=algolia"/>
 </div>
 
 ###
