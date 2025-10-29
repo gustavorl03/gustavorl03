@@ -224,10 +224,8 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde 
 <br/>
 
 <p align="left">
-  <img align="center" src="https://media.gifdb.com/dark-aesthetic-anime-sdat-shinji-frmglswgu6tj5k3j.gif" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/f56c35f9-92fe-4f59-9c14-8f14b5675490" alt="Imagem">
 </p>
-
-![Aesthetic Blue Waves Animation](https://media.gifdb.com/aesthetic-anime-blue-sea-waves-mifyhkjxufwyss6a.gif)
 
 ## Portfolio:
 - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
