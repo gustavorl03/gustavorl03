@@ -1,10 +1,4 @@
 
-<!--título
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
-
 <!-- Presentation 
 <p>
   Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
@@ -22,20 +16,6 @@
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
-
-
-<!-- Portfolio 
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
-
-<!-- GIF 
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages --
@@ -223,16 +203,18 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde 
 <br/>
 <br/>
 
-<p align="left">
-  <img align="center" src="https://github.com/user-attachments/assets/f56c35f9-92fe-4f59-9c14-8f14b5675490" alt="Imagem">
-</p>
-
 ## Portfolio:
 - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
 - [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
 - [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
+
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/293e05e6-67b4-4e26-becb-2d568b894fea"
+       alt="Aesthetic Blue Waves Animation" width="850" />
+</div>
 
 ### 📊 Estatísticas
 
