@@ -204,11 +204,11 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde 
 <br/>
 
 ## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- [Sea](https)
+- [Explor](https)
+- [Interac](httpsD)
+- [Data](https)
+- [Client](https)
 
 
 <div align="left">
