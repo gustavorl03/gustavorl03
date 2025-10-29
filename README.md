@@ -1,4 +1,87 @@
-# 👩🏻‍💻 Gustavo Lacerda
+
+<!--título
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<!-- Presentation 
+<p>
+  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+
+  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+</p>
+
+<!-- Dropdown 
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+<!-- Links 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
+
+<!-- Portfolio 
+## Portfolio:
+- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Client Registry System](https://github.com/VariableBee/Cartorio)
+
+<!-- GIF 
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages --
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks --
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
+  
+  <!-- Skills: Libraries --
+  <div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </div>
+
+-->
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=36BCF7FF"  />
+</div>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem-vindos!)](https://git.io/typing-svg)
+
+# 👩🏻‍💻 I'm Gustavo Lacerda
 
 **`Desenvolvedor FullStack`**
 
@@ -9,35 +92,38 @@ Atualmente, estou aprendendo e praticando JavaScript, Node.js, React, Tailwind e
 Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa crescer profissionalmente, aprender com pessoas experientes e contribuir de forma positiva com o time e com os projetos.
 
 💡 Sempre em busca de evoluir e colocar em prática tudo o que aprendo. 🚀 
+
 <p align="left"> 
-    <a href="https://github.com/gustavorl03?tab=repositories&sort=stargazers">
+<a href="https">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gustavorl03?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a> 
-    <a href="https://github.com/gustavorl03?tab=followers">
-        <img 
-            alt="Seguidores" 
+            alt="Meu Perfil do GitHub" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gustavorl03?color=391e5c&labelColor=391e5c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Me siga no GitHub-F25278?style=for-the-badge&logo=github&logoColor=white&color=391e5c&labelColor=391e5c"
         />
-        <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="Portifólio" 
-            title="Meu Portifólio" 
-            src="https://custom-icon-badges.demolab.com/badge/-Portifolio-F25278?style=for-the-badge&logo=book&logoColor=white&color=%23E05D44&labelColor=CE4630"
               
 <a href="https://github.com/gustavorl03?tab=repositories&sort=stargazers">
         <img 
             alt="Linkedin" 
-            title="Meu Linkedin" 
+            title="Me siga no Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin&logoSource=feather&style=for-the-badge"
-/>
+        />  
+
+<a href="https">
+        <img 
+            alt="Gmail" 
+            title="Meu Gmail" 
+            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"
+        />  
+
+<a href="https">
+        <img 
+            alt="Portifólio" 
+            title="Meu Portifólio" 
+            src="https://custom-icon-badges.demolab.com/badge/-Portifolio-F25278?style=for-the-badge&logo=book&logoColor=white&color=E0A51C&labelColor=E0A51C"
+        />
     
 </p>
-
+    
 ---
 
 ### 🤖 Linguagens e Ferramentas
@@ -143,23 +229,15 @@ Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gustavorl03&show_icons=true&theme=gotham&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustavorl03&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorl03&theme=github_dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustavorl03&theme=github_dark"/>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavorl03&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavorl03/gustavorl03/output/pacman-contribution-graph-dark.svg">
