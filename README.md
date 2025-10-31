@@ -200,15 +200,18 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 
 ## Portfolio:
-<div>
-  <img align= "right" width="300" alt="Image" src="https://github.com/user-attachments/assets/3a57dcb2-79bd-469d-86ca-f7e11cbce542" />
+- [Sea](https)
+- [Explor](https)
+- [Interac](httpsD)
+- [Data](https)
+- [Client](https)
 
-  - [Explor](https)
-  - [Interac](httpsD)
-  - [Data](https)
-  - [Client](https)
 
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/3a57dcb2-79bd-469d-86ca-f7e11cbce542"
+       alt="Aesthetic Blue Waves Animation" width="850" />
 </div>
+
 
 ### 📊 Estatísticas
 
