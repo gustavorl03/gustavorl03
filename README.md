@@ -57,17 +57,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A1EE&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem-vindos.)](https://git.io/typing-svg)
 
 
-# 👩🏻‍💻 I'm Gustavo Lacerda
+# 👩🏻‍💻 Meu nome é Gustavo Lacerda
 
 **`Desenvolvedor FullStack`**
 
-Sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas e tenho como meta me tornar um desenvolvedor full stack. Gosto de entender como as coisas funcionam e de transformar ideias em soluções reais através da programação.
-
-Atualmente, estou aprendendo e praticando JavaScript, Node.js, React, Tailwind e PostgreSQL, buscando construir uma base sólida para atuar tanto no front-end quanto no back-end.
-
-Estou em busca da minha primeira oportunidade na área de desenvolvimento, onde eu possa crescer profissionalmente, aprender com pessoas experientes e contribuir de forma positiva com o time e com os projetos.
-
-💡 Sempre em busca de evoluir e colocar em prática tudo o que aprendo. 🚀 
+💬 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full Stack.
+Atualmente estudando e aplicando JavaScript, React, Node.js, TypeScript e PostgreSQL.
+Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e colaborar em projetos reais. 
 
 <p align="left"> 
 <a href="https">
