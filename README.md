@@ -130,15 +130,11 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 
 ## Portfolio:
-- [Sea](https)
-- [Explor](https)
-- [Interac](httpsD)
-- [Data](https)
-- [Client](https)
+   - [Sea](https)         - [Explor](https)       - [Interac](httpsD)         - [Data](https)          - [Client](https)
 
 
 <div align="center">
-  <img height="200" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
+  <img height="400" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
 </div>
 
 
