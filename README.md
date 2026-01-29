@@ -59,10 +59,10 @@
 
 # 👩🏻‍💻 Meu nome é Gustavo Lacerda
 
-**`Desenvolvedor FullStack`**
+**`Foco em Dados`**
 
-💬 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Desenvolvimento Full Stack.
-Atualmente estudando e aplicando JavaScript, React, Node.js, TypeScript e PostgreSQL.
+💬 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Análise de Dados**.
+Atualmente estudando e aplicando **Excel, SQL, Power BI e Python** para organização, análise e visualização de dados.
 Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e colaborar em projetos reais. 
 
 <p align="left"> 
