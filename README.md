@@ -137,10 +137,10 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 - [Client](https)
 
 
-<div align="left">
-  <img src="https://github.com/user-attachments/assets/3a57dcb2-79bd-469d-86ca-f7e11cbce542"
-       alt="Aesthetic Blue Waves Animation" width="600" />
+<div align="center">
+  <img height="200" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
 </div>
+
 
 
 ### 📊 Estatísticas
