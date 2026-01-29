@@ -64,14 +64,6 @@
 💬 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Análise de Dados**.
 Atualmente estudando e aplicando **Excel, SQL, Power BI e Python** para organização, análise e visualização de dados.
 Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e colaborar em projetos reais. 
-
-<p align="left"> 
-<a href="https://github.com/gustavorl03">
-        <img 
-            alt="Meu Perfil do GitHub" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/-Me siga no GitHub-F25278?style=for-the-badge&logo=github&logoColor=white&color=391e5c&labelColor=391e5c"
-        />
               
 <a href="https://www.linkedin.com/in/gusrlacerda/">
         <img 
