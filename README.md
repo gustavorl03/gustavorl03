@@ -76,7 +76,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
         <img 
             alt="Gmail" 
             title="Meu Gmail" 
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"
+            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"
         />  
 
 <a href="https">
