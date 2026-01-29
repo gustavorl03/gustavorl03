@@ -140,12 +140,15 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 
 ## Portfolio:
-   - [Sea](https)         - [Explor](https)       - [Interac](httpsD)         - [Data](https)          - [Client](https)
+  <ul>
+  <li><a href="LINK_PROJETO_1">Sea</a></li>
+  <li><a href="LINK_PROJETO_2">Analytics</a></li>
+  <li><a href="LINK_PROJETO_3">Dashboard de Custos Operacionais</a></li>
+  <li><a href="LINK_PROJETO_4">Projeto 4</a></li>
+</ul>
 
+<img align="right" height="260" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
 
-<div align="center">
-  <img height="400" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
-</div>
 
 
 
