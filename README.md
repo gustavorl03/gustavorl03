@@ -102,16 +102,16 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="Power BI" 
+    title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg"
@@ -119,8 +119,8 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 <img 
     align="left" 
-    alt="Node.js"
-    title="Node.js" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -128,31 +128,13 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 <img 
     align="left" 
-    alt="Tailwind"
-    title="Tailwind" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="Pandas" 
+    title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src=
-/>
 
 
 <br/>
