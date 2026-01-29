@@ -54,7 +54,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A1EE&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem-vindos.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem+vindos!!)](https://git.io/typing-svg)
 
 
 # 👩🏻‍💻 Meu nome é Gustavo Lacerda
@@ -66,21 +66,21 @@ Atualmente estudando e aplicando **Excel, SQL, Power BI e Python** para organiza
 Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e colaborar em projetos reais. 
 
 <p align="left"> 
-<a href="https">
+<a href="https://github.com/gustavorl03">
         <img 
             alt="Meu Perfil do GitHub" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/-Me siga no GitHub-F25278?style=for-the-badge&logo=github&logoColor=white&color=391e5c&labelColor=391e5c"
         />
               
-<a href="https://github.com/gustavorl03?tab=repositories&sort=stargazers">
+<a href="https://www.linkedin.com/in/gusrlacerda/">
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/linkedin-blue.svg?logo=linkedin&logoSource=feather&style=for-the-badge"
         />  
 
-<a href="https">
+<a href="mailto:raphaelgustavo312@gmail.com">
         <img 
             alt="Gmail" 
             title="Meu Gmail" 
@@ -123,7 +123,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
     title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-white.svg"
 />
 
 <img 
