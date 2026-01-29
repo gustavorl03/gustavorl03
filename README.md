@@ -129,6 +129,30 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 <br/>
 
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- LISTA À ESQUERDA -->
+  <div style="flex: 1;">
+    <ul>
+      <li><a href="LINK_DO_PROJETO_1">Sea</a></li>
+      <li><a href="LINK_DO_PROJETO_2">Analytics</a></li>
+      <li><a href="LINK_DO_PROJETO_3">Dashboard de Custos Operacionais</a></li>
+      <li><a href="LINK_DO_PROJETO_3">Projeto 4</a></li>
+    </ul>
+  </div>
+
+  <!-- GIF À DIREITA -->
+  <div style="flex: 2;">
+    <img 
+      src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w" 
+      alt="Portfolio Animation"
+      style="width: 100%; border-radius: 10px;"
+    />
+  </div>
+
+</div>
+
+
 ## Portfolio:
    - [Sea](https)         - [Explor](https)       - [Interac](httpsD)         - [Data](https)          - [Client](https)
 
