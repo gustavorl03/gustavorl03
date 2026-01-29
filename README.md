@@ -85,10 +85,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
             title="Meu Portifólio" 
             src="https://custom-icon-badges.demolab.com/badge/-Portifolio-F25278?style=for-the-badge&logo=book&logoColor=white&color=E0A51C&labelColor=E0A51C"
         />
-    
-</p>
-    
----
+  
 
 ### 🤖 Linguagens e Ferramentas
 
