@@ -143,13 +143,14 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
  
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  width="70%" style="max-height:320px;" />
 
+</br>
 
-
-### 📚 Em aprendizado
+## 📚 Em aprendizado
 - SQL avançado (JOINs complexos e subqueries)
 - Power BI (modelagem e DAX básico)
 - Python para análise de dados (Pandas e visualização)
 
+</br>
 
 ## 📊 Estatísticas
 
