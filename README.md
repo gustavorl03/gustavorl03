@@ -142,7 +142,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 
 
- ## 📖 Portfolio: 
+ ## 📖 Projetos: 
  
 <ul>
   <li><a href="LINK_SEA">Análise Exploratória – Sea</a></li>
