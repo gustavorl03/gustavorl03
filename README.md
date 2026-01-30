@@ -85,9 +85,11 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
             title="Meu Portifólio" 
             src="https://custom-icon-badges.demolab.com/badge/-Portifolio-F25278?style=for-the-badge&logo=book&logoColor=white&color=E0A51C&labelColor=E0A51C"
         />
-  
+ 
+<br/>
 
-### 🤖 Linguagens e Ferramentas
+
+## 🤖Linguagens e Ferramentas:
 
 <img 
     align="left" 
@@ -129,23 +131,21 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 <br/>
 
-## Portfolio:
-  
 
-<img align="right" height="260" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
-
-<div height-"380">
-  <ul>
-    <li><a href="LINK_PROJETO_1">Sea</a></li>
-    <li><a href="LINK_PROJETO_2">Analytics</a></li>
-    <li><a href="LINK_PROJETO_3">Dashboard de Custos Operacionais</a></li>
-    <li><a href="LINK_PROJETO_4">Projeto 4</a></li>
-  </ul>
-</div>
+ ## 📖 Portfolio: 
+ 
+<ul>
+  <li><a href="LINK_SEA">Análise Exploratória – Sea</a></li>
+  <li><a href="LINK_ANALYTICS">Dashboard Analítico</a></li>
+  <li><a href="LINK_CUSTOS">Dashboard de Custos Operacionais</a></li>
+  <li><a href="LINK_PROJETO_4">Projeto em Andamento</a></li>
+</ul>
+ 
+<img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  width="70%" style="max-height:320px;" />
 
 
+## 📊 Estatísticas
 
-### 📊 Estatísticas
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gustavorl03&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br"/>
