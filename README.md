@@ -97,8 +97,18 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 />
+
+<img 
+    align="left" 
+    alt="Excel"
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" 
+/>
+ 
 <img 
     align="left" 
     alt="Power BI" 
