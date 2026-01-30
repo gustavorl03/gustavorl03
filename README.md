@@ -129,28 +129,19 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 <br/>
 
-<ul>
-  <li><a href="LINK_PROJETO_1">Sea</a></li>
-  <li><a href="LINK_PROJETO_2">Analytics</a></li>
-  <li><a href="LINK_PROJETO_3">Dashboard de Custos Operacionais</a></li>
-  <li><a href="LINK_PROJETO_4">Projeto 4</a></li>
-</ul>
-| 
-<img src="LINK_DO_GIF_AQUI" width="100%" />
-
-
 ## Portfolio:
   
 
 <img align="right" height="260" src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  />
 
-<ul>
-  <li><a href="LINK_PROJETO_1">Sea</a></li>
-  <li><a href="LINK_PROJETO_2">Analytics</a></li>
-  <li><a href="LINK_PROJETO_3">Dashboard de Custos Operacionais</a></li>
-  <li><a href="LINK_PROJETO_4">Projeto 4</a></li>
-</ul>
-
+<div height-"280">
+  <ul>
+    <li><a href="LINK_PROJETO_1">Sea</a></li>
+    <li><a href="LINK_PROJETO_2">Analytics</a></li>
+    <li><a href="LINK_PROJETO_3">Dashboard de Custos Operacionais</a></li>
+    <li><a href="LINK_PROJETO_4">Projeto 4</a></li>
+  </ul>
+</div>
 
 
 
