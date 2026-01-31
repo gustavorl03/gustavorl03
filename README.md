@@ -63,7 +63,7 @@
 
 💬 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Análise de Dados**.
 Atualmente estudando e aplicando **Excel, SQL, Power BI e Python** para organização, análise e visualização de dados para apoio à tomada de decisão.
-Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e colaborar em projetos reais. 
+Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e atuar em projetos reais orientados a dados.. 
               
 <a href="https://www.linkedin.com/in/gusrlacerda/">
         <img 
@@ -136,6 +136,14 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
 
 
 <br/>
@@ -152,6 +160,16 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 </ul>
  
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  width="75%"  style="max-height:350px;" />
+
+</br>
+
+## 🗂️ Organização dos estudos
+
+Este GitHub é utilizado para:
+- Projetos práticos de Análise de Dados
+- Exercícios de cursos e estudos
+- Dashboards e análises exploratórias
+- Documentação da minha evolução na área
 
 </br>
 
