@@ -57,7 +57,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+pessoal%2C+sejam+bem+vindos!!)](https://git.io/typing-svg)
 
 
-# 👩🏻‍💻 Meu nome é Gustavo Lacerda
+##  👩🏻‍💻 Meu nome é Gustavo Lacerda
 
 **`Foco em Dados`**
 
@@ -89,7 +89,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 
 
-## 🤖Linguagens e Ferramentas:
+###  🤖Linguagens e Ferramentas:
 
 <img 
     align="left" 
@@ -142,7 +142,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <br/>
 
 
- ## 📖 Projetos: 
+ ###  📖 Projetos: 
  
 <ul>
   <li><a href="LINK_SEA">Análise Exploratória – Sea</a></li>
@@ -155,14 +155,14 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 </br>
 
-## 📚 Em aprendizado
+###  📚 Em aprendizado
 - SQL avançado (JOINs complexos e subqueries)
 - Power BI (modelagem e DAX básico)
 - Python para análise de dados (Pandas e visualização)
 
 </br>
 
-## 📊 Estatísticas
+###  📊 Estatísticas
 
 
 <div align="center">
