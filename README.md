@@ -93,11 +93,11 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
 />
 
 <img 
@@ -153,10 +153,10 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
  ##  📖 Projetos: 
  
 <ul>
-  <li><a href="LINK_SEA">Análise Exploratória – Sea</a></li>
-  <li><a href="LINK_ANALYTICS">Dashboard Analítico</a></li>
-  <li><a href="LINK_CUSTOS">Dashboard de Custos Operacionais</a></li>
-  <li><a href="LINK_PROJETO_4">Projeto em Andamento</a></li>
+  <li><a href="https://github.com/gustavorl03/analise-dados-filmes">Análise de Filmes: Popularidade vs Qualidade</a></li>
+  <li><a href="LINK_ANALYTICS"></a></li>
+  <li><a href="LINK_CUSTOS"></a></li>
+  <li><a href="LINK_PROJETO_4"></a></li>
 </ul>
  
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  width="75%"  style="max-height:350px;" />
