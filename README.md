@@ -28,7 +28,7 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
             src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  alt="gmail logo"
         />  
 
-<a href="https">
+<a href="">
         <img 
             alt="Portifólio" 
             title="Meu Portifólio" 
