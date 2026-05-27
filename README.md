@@ -14,7 +14,7 @@
 Atualmente estudando e aplicando **Excel, SQL, Power BI e Python** para organização, análise e visualização de dados para apoio à tomada de decisão.
 Busco minha primeira oportunidade para crescer na área, aprender com profissionais experientes e atuar em projetos reais orientados a dados.. 
               
-<a href="https://www.linkedin.com/in/gusrlacerda/">
+<a href="https://www.linkedin.com/in/gustavo-rlacerda">
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
