@@ -104,8 +104,8 @@ Busco minha primeira oportunidade para crescer na área, aprender com profission
 <ul>
   <li><a href="https://github.com/gustavorl03/analise-dados-filmes">Análise de Filmes: Popularidade vs Qualidade</a></li>
   <li><a href="https://github.com/gustavorl03/olist-ecommerce-analysis">Análise de Desempenho Comercial — E-commerce Brasileiro</a></li>
-  <li><a href="LINK_CUSTOS"></a></li>
-  <li><a href="LINK_PROJETO_4"></a></li>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
 </ul>
  
 <img src="https://images.squarespace-cdn.com/content/v1/5c702bc465019f9573ec4c2b/1656951595325-CGD8JSSY9L2RRUANH2R9/1.gif?format=1500w"  width="75%"  style="max-height:350px;" />
